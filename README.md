@@ -1,7 +1,7 @@
 # MercadoPagoDelphi
 Componente comercial para integração Delphi (Android) com as maquinas de cartão MercadoPago Point
 
-**Este repositório**
+**Este repositório:**
 
 Aqui está hospedado a demo de uso com código fonte e também compilada, e a documentação completa para uma prévia do funcionamento e uso do componente antes de adiquiri-lo.
 
