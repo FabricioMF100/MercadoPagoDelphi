@@ -1,9 +1,18 @@
 # MercadoPagoDelphi
 Componente comercial para integração Delphi (Android) com as maquinas de cartão MercadoPago Point
 
+**Compatibilidade:**
+
+Componente compatível com Delphi Berlin(10.1), Tokyo(10.2) e Rio(10.3).
+
 **Este repositório:**
 
 Aqui está hospedado a demo de uso com código fonte e também compilada, e a documentação completa para uma prévia do funcionamento e uso do componente antes de adiquiri-lo.
+
+## Vídeos de demonstração
+
+- [SmartPOS Android](https://youtu.be/LVFQ_PLpYxM)
+- [PDV Android](https://youtu.be/rw75JmeJIz0)
 
 # Como adiquirir o componente
 Para adiquirir o componente, clique no link abaixo, preencha suas informações incluindo um email válido, e após aprovação do pagamento enviarei por email o pacote completo do componente com código fonte e também a demo e a documentação do mesmo.
